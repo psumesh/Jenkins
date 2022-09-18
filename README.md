@@ -1,2 +1,4 @@
 # Jenkins
-Verification with CI Linked with EC2 instance
+Verification with CI with EC2 instance
+Fully automated with assertion check 
+Open source verification environment 
