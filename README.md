@@ -1,5 +1,5 @@
 # Jenkins
-Verification with CI with EC2 instance
+Verification with CI & EC2 instance
 
 Fully automated with assertion check 
 
